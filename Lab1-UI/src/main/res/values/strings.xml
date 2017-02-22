@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1UI</string>
+    <string-array name="countries_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Ecuador</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>Puerto Rico</item>
+        <item>República Dominicana</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string-array name="cities_array">
+        <item>Bogotá</item>
+        <item>Medellín</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Cartagena de Indias</item>
+        <item>Cúcuta</item>
+        <item>Soledad</item>
+        <item>Ibagué</item>
+        <item>Bucaramanga</item>
+        <item>Soacha</item>
+        <item>Santa Marta</item>
+        <item>Villavicencio</item>
+        <item>Bello</item>
+        <item>Pereira</item>
+        <item>Valledupar</item>
+        <item>Manizales</item>
+        <item>Buenaventura</item>
+        <item>Pasto</item>
+        <item>Montería</item>
+        <item>Neiva</item>
+    </string-array>
+
+    <string-array name="gradoEscolaridad_array">
+        <item>Primaria</item>
+        <item>Secundaria</item>
+        <item>Universitaria</item>
+        <item>Otro</item>
+    </string-array>
+
+    <string name="personalInfoTittle">Información Personal</string>
+    <string name="contactInfoTittle">Información de Contacto</string>
+    <string name="otherInfoTittle">Información Complementaria</string>
+    <string name="names">Nombres*</string>
+    <string name="last_names">Apellidos</string>
+    <string name="sex">Sexo</string>
+    <string name="male">Masculino</string>
+    <string name="female">Female</string>
+    <string name="birthdate">Fecha de Nacimiento*</string>
+    <string name="country">País*</string>
+    <string name="city">Ciudad</string>
+    <string name="phone">Teléfono*</string>
+    <string name="address">Dirección</string>
+    <string name="email">Email*</string>
+    <string name="school_grade">Grado de Escolaridad</string>
+    <string name="hobbies">Pasatiempos</string>
+    <string name="favorite">Favorito</string>
+    <string name="read">Leer</string>
+    <string name="watchtv">Ver-TV</string>
+    <string name="dance">Bailar</string>
+    <string name="sing">Cantar</string>
+    <string name="swim">Nadar</string>
+    <string name="show">Mostrar información</string>
+    <string name="nextStr">Siguente</string>
+    <string name="yes_word">Si</string>
+    <string name="no_word">No</string>
+    <string name="invalid_form_fields">Los campos con asterisco son oblgatorios</string>
+    <string name="is_favorite">¿Es favorito?</string>
+
+
+</resources>

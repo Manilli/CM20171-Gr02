@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1UI</string>
+    <string-array name="countries_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Ecuador</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>Puerto Rico</item>
+        <item>República Dominicana</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+    <string-array name="gradoEscolaridad_array">
+        <item>Elementary school</item>
+        <item>High school</item>
+        <item>College</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="personalInfoTittle">Personal Info</string>
+    <string name="contactInfoTittle">Contact Info</string>
+    <string name="otherInfoTittle">Other Info</string>
+    <string name="names">Names*</string>
+    <string name="last_names">Last Names</string>
+    <string name="sex">Sex</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="birthdate">Birth date*</string>
+    <string name="country">Country*</string>
+    <string name="city">City</string>
+    <string name="phone">Phone*</string>
+    <string name="address">Address</string>
+    <string name="email">Email*</string>
+    <string name="school_grade">School Grade</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="favorite">Favorite</string>
+    <string name="read">Read</string>
+    <string name="watchtv">Watch-TV</string>
+    <string name="dance">Dance</string>
+    <string name="sing">Sing</string>
+    <string name="swim">Swim</string>
+    <string name="show">Show Info</string>
+    <string name="nextStr">Next</string>
+    <string name="yes_word">Yes</string>
+    <string name="no_word">No</string>
+    <string name="invalid_form_fields">The fields with * must be filled</string>
+    <string name="is_favorite">Is favorite?</string>
+
+</resources>
